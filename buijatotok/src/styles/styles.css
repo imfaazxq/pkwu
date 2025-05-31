@@ -1,0 +1,406 @@
+
+.buija-homepage {
+    background-color: #ffffff;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    width: 100%;
+  }
+  
+  .buija-homepage .overlap-wrapper-2 {
+    background-color: #ffffff;
+    height: 6935.01px;
+    overflow: hidden;
+    width: 1366px;
+  }
+  
+  .buija-homepage .overlap-11 {
+    height: 5442px;
+    left: -39px;
+    position: relative;
+    top: 14px;
+    width: 1540px;
+  }
+  
+  .buija-homepage .rectangle-2 {
+    height: 14px;
+    left: 635px;
+    position: absolute;
+    top: 66px;
+    width: 69px;
+  }
+  
+  .buija-homepage .text-wrapper-38 {
+    color: #000000;
+    font-family: "Rozha One-Regular", Helvetica;
+    font-size: 40px;
+    font-weight: 400;
+    height: 88px;
+    left: 75px;
+    letter-spacing: 0;
+    line-height: 40px;
+    position: absolute;
+    text-align: center;
+    top: 0;
+    width: 290px;
+  }
+  
+  .buija-homepage .line {
+    height: 168px;
+    left: 722px;
+    object-fit: cover;
+    position: absolute;
+    top: 2451px;
+    width: 1px;
+  }
+  
+  .buija-homepage .rectangle-3 {
+    background-color: #ffffff;
+    height: 729px;
+    left: 42px;
+    position: absolute;
+    top: 783px;
+    width: 1389px;
+  }
+  
+  .buija-homepage .text-wrapper-39 {
+    color: #0d4715;
+    font-family: "Montaga-Regular", Helvetica;
+    font-size: 48px;
+    font-weight: 400;
+    left: 133px;
+    letter-spacing: 0;
+    line-height: 100px;
+    position: absolute;
+    top: 844px;
+    white-space: nowrap;
+    width: 431px;
+  }
+  
+  .buija-homepage .text-wrapper-40 {
+    color: #0d4715;
+    font-family: "Lora-Bold", Helvetica;
+    font-size: 96px;
+    font-weight: 700;
+    left: 187px;
+    letter-spacing: 0;
+    line-height: 100px;
+    position: absolute;
+    top: 932px;
+    white-space: nowrap;
+    width: 485px;
+  }
+  
+  .buija-homepage .text-wrapper-41 {
+    color: #000000;
+    font-family: "Montserrat-Bold", Helvetica;
+    font-size: 48px;
+    font-weight: 700;
+    left: 565px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 3486px;
+  }
+  
+  .buija-homepage .text-wrapper-42 {
+    color: #000000;
+    font-family: "Montserrat-Bold", Helvetica;
+    font-size: 48px;
+    font-weight: 700;
+    left: 509px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 4415px;
+  }
+  
+  .buija-homepage .group-3 {
+    height: 537px;
+    left: 39px;
+    position: absolute;
+    top: 1018px;
+    width: 1366px;
+  }
+  
+  .buija-homepage .text-wrapper-43 {
+    color: #000000;
+    font-family: "Montserrat-Bold", Helvetica;
+    font-size: 18px;
+    font-weight: 700;
+    left: 192px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 3821px;
+  }
+  
+  .buija-homepage .text-wrapper-44 {
+    color: #000000;
+    font-family: "Montserrat-Bold", Helvetica;
+    font-size: 18px;
+    font-weight: 700;
+    left: 508px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 3829px;
+  }
+  
+  .buija-homepage .text-wrapper-45 {
+    color: #000000;
+    font-family: "Montserrat-Bold", Helvetica;
+    font-size: 18px;
+    font-weight: 700;
+    left: 832px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 3836px;
+  }
+  
+  .buija-homepage .text-wrapper-46 {
+    color: #000000;
+    font-family: "Montserrat-Bold", Helvetica;
+    font-size: 18px;
+    font-weight: 700;
+    left: 1153px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 3841px;
+  }
+  
+  .buija-homepage .text-wrapper-47 {
+    color: #000000;
+    font-family: "Montserrat-Bold", Helvetica;
+    font-size: 13px;
+    font-weight: 700;
+    left: 192px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 3999px;
+  }
+  
+  .buija-homepage .text-wrapper-48 {
+    color: #000000;
+    font-family: "Montserrat-Bold", Helvetica;
+    font-size: 13px;
+    font-weight: 700;
+    left: 511px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 4002px;
+  }
+  
+  .buija-homepage .text-wrapper-49 {
+    color: #000000;
+    font-family: "Montserrat-Bold", Helvetica;
+    font-size: 13px;
+    font-weight: 700;
+    left: 835px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 4002px;
+  }
+  
+  .buija-homepage .text-wrapper-50 {
+    color: #000000;
+    font-family: "Montserrat-Bold", Helvetica;
+    font-size: 13px;
+    font-weight: 700;
+    left: 1157px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 4002px;
+  }
+  
+  .buija-homepage .image-2 {
+    background-image: url(./image-5.png);
+    background-position: 50% 50%;
+    background-size: cover;
+    border-radius: 25px;
+    height: 477px;
+    left: 758px;
+    overflow: hidden;
+    position: absolute;
+    top: 1713px;
+    width: 102px;
+  }
+  
+  .buija-homepage .overlap-12 {
+    border-radius: 25px;
+    height: 1268px;
+    left: -379px;
+    position: relative;
+    width: 1058px;
+  }
+  
+  .buija-homepage .CEO-AND-CO-FOUNDER-wrapper {
+    align-items: center;
+    display: inline-flex;
+    gap: 10px;
+    justify-content: center;
+    left: 75px;
+    opacity: 0;
+    padding: 10px;
+    position: relative;
+    top: 80px;
+  }
+  
+  .buija-homepage .div-2 {
+    color: transparent;
+    font-family: "Poppins-SemiBold", Helvetica;
+    font-size: 35px;
+    font-weight: 600;
+    letter-spacing: 0;
+    line-height: 100px;
+    margin-top: -1.00px;
+    position: relative;
+    width: 888px;
+  }
+  
+  .buija-homepage .text-wrapper-51 {
+    color: #6193ff;
+  }
+  
+  .buija-homepage .text-wrapper-52 {
+    color: #000000;
+    font-size: 80px;
+  }
+  
+  .buija-homepage .image-3 {
+    background-image: url(./image-3.png);
+    background-position: 50% 50%;
+    background-size: cover;
+    border-radius: 25px;
+    height: 477px;
+    left: 877px;
+    overflow: hidden;
+    position: absolute;
+    top: 1713px;
+    width: 102px;
+  }
+  
+  .buija-homepage .CEO-OPENAI-sam-wrapper {
+    align-items: center;
+    background-image: url(./text.png);
+    background-position: 50% 50%;
+    background-size: cover;
+    display: inline-flex;
+    gap: 10px;
+    justify-content: center;
+    left: -304px;
+    opacity: 0;
+    padding: 10px;
+    position: relative;
+    top: 80px;
+  }
+  
+  .buija-homepage .nav {
+    height: 38px;
+    left: 1090px;
+    position: absolute;
+    top: 1687px;
+    width: 81px;
+  }
+  
+  .buija-homepage .left {
+    height: 50px;
+    left: 0;
+    mix-blend-mode: luminosity;
+    position: absolute;
+    top: 0;
+    width: 50px;
+  }
+  
+  .buija-homepage .right {
+    height: 50px;
+    left: 91px;
+    position: absolute;
+    top: 0;
+    width: 50px;
+  }
+  
+  .buija-homepage .text-wrapper-53 {
+    color: #000000;
+    font-family: "Montserrat-Bold", Helvetica;
+    font-size: 40px;
+    font-weight: 700;
+    left: 156px;
+    letter-spacing: 0;
+    line-height: 100px;
+    position: absolute;
+    top: 1584px;
+    width: 519px;
+  }
+  
+  .buija-homepage .rectangle-4 {
+    background: linear-gradient(
+      180deg,
+      rgb(255, 255, 255) 0%,
+      rgba(204, 204, 204, 0.51) 44.26%,
+      rgba(153, 153, 153, 0.03) 88.52%
+    );
+    height: 287px;
+    left: 11px;
+    position: absolute;
+    top: 557px;
+    transform: rotate(0.38deg);
+    width: 1394px;
+  }
+  
+  .buija-homepage .text-wrapper-54 {
+    color: #000000;
+    font-family: "Montserrat-Bold", Helvetica;
+    font-size: 36px;
+    font-weight: 700;
+    left: 479px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 2832px;
+    width: 461px;
+  }
+  
+  .buija-homepage .house {
+    height: 90px;
+    left: 632px;
+    position: absolute;
+    top: 2974px;
+    width: 90px;
+  }
+  
+  .buija-homepage .time-machine {
+    height: 90px;
+    left: 1068px;
+    position: absolute;
+    top: 2974px;
+    width: 90px;
+  }
+  
+  .buija-homepage .certificate {
+    height: 90px;
+    left: 207px;
+    position: absolute;
+    top: 2974px;
+    width: 90px;
+  }
+  
+  .buija-homepage .selamat-datang-saya {
+    color: #525252;
+    font-family: "Lora-Regular", Helvetica;
+    font-size: 18px;
+    font-weight: 400;
+    left: 142px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 1088px;
+    width: 760px;
+  }
+  
