@@ -261,8 +261,8 @@ const generateReceiptHTML = (client: Client): string => {
 <body>
     <div class="header">
         <div class="logo">Klinik Terapi Sehat</div>
-        <div class="clinic-info">Telp: (0411) 123-4567 | Email: info@klinikterapi.com</div>
-        <div class="clinic-info">Website: www.klinikterapi.com</div>
+        <div class="clinic-info">Telp: (+62)878 1583 6823 | Email: therapibuija@gmail.com</div>
+        <div class="clinic-info">Website: www.therapibuija.com</div>
     </div>
 
     <div style="text-align: center; margin-bottom: 30px;">

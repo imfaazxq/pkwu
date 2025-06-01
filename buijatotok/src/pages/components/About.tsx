@@ -35,7 +35,7 @@ className="text-3xl md:text-4xl mb-2 mt-[-50px]"
         <h2 
           className="text-5xl md:text-6xl mb-8 font-bold" 
           style={{ 
-            fontFamily: 'Lora, serif', 
+            fontFamily: 'montserrat', 
             color: '#0D4715'
           }}
         >

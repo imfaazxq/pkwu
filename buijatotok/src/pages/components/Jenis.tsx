@@ -72,7 +72,7 @@ const Jenis = () => {
 
   return (
     <div className="py-8 px-4 max-w-4xl mx-auto">
-      <h1 className="lora text-4xl font-bold text-center mb-12">
+      <h1 className="montserrat text-4xl font-bold text-center mb-12">
         Lihat Pilihan Therapi
       </h1>
 
