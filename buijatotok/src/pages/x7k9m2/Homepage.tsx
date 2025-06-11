@@ -43,7 +43,7 @@ const Homepage: React.FC = () => {
   // Redirect if not authenticated
   useEffect(() => {
     if (!loading && !isAuthenticated) {
-      router.push('/Admin/Login');
+      router.push('/x7k9m2/Login');
     }
   }, [isAuthenticated, loading, router]);
 
@@ -180,7 +180,7 @@ const Homepage: React.FC = () => {
                 </p>
                 <button 
                   className="mt-6 md:mt-8 bg-[#3A5645] hover:bg-[#4d705b] text-white font-semibold py-2 md:py-3 px-4 md:px-6 rounded-md transition-colors duration-300 shadow-md hover:shadow-lg transform hover:-translate-y-1" 
-                  onClick={() => router.push("/Admin/Bookings")}
+                  onClick={() => router.push("/x7k9m2/Bookings")}
                 >
                   Lihat Jadwal Hari Ini
                 </button>

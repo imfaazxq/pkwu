@@ -14,10 +14,10 @@ const Home: NextPage = () => {
   const [mobileMenuOpen, setMobileMenuOpen] = useState(false);
 
   const menuItems = [
-    { name: 'HOME', path: '#home' },
-    { name: 'ABOUT ME', path: '#about' },
-    { name: 'SERVICE', path: '#service' },
-    { name: 'CERTIFICATE', path: '#certificate' },
+    { name: 'BERANDA', path: '#home' },
+    { name: 'TENTANG', path: '#about' },
+    { name: 'SERVIS', path: '#service' },
+    { name: 'SERTIFIKAT', path: '#certificate' },
     { name: 'TESTIMONI', path: '#testimoni' },
   ];
   
@@ -178,10 +178,10 @@ const Home: NextPage = () => {
         <h3 className="montserrat text-sm md:text-sm lg:text-lg font-semibold mb-3 md:mb-2 lg:mb-4 text-[#0A3910] uppercase">QUICK LINK</h3>
         <ul className="space-y-2 md:space-y-1.5 lg:space-y-2.5 text-center md:text-left">
           {[
-            { label: 'Home', section: 'home' },
-            { label: 'About me', section: 'about' },
-            { label: 'Services', section: 'service' },
-            { label: 'Certificate', section: 'certificate' },
+            { label: 'Beranda', section: 'home' },
+            { label: 'Tentang kami', section: 'about' },
+            { label: 'Servis', section: 'service' },
+            { label: 'Sertifikat', section: 'certificate' },
             { label: 'Testimoni', section: 'testimoni' }
           ].map((link, index) => (
             <li key={index}>

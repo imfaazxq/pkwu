@@ -19,7 +19,6 @@ return new class extends Migration
             $table->string('media_path');
             $table->enum('media_type', ['image', 'video'])->default('image');
             $table->boolean('is_active')->default(true);
-            $table->enum('status', ['pending', 'approved', 'rejected'])->default('pending'); // Added status field
             $table->timestamps();
         });
     }

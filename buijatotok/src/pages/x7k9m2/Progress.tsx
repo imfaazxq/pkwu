@@ -26,7 +26,7 @@ const Progress: React.FC = () => {
   useEffect(() => {
     if (!loading && !isAuthenticated) {
       // Redirect to login page if not authenticated
-      router.push('/Admin/Login');
+      router.push('/x7k9m2/Login');
     }
   }, [isAuthenticated, loading, router]);
   

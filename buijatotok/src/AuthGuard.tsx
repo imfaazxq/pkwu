@@ -18,8 +18,8 @@ const AuthGuard: React.FC<AuthGuardProps> = ({ children }) => {
       if (loading) return;
 
       // Jika tidak terotentikasi dan bukan di halaman login
-      if (!isAuthenticated && router.pathname !== '/Admin/Login') {
-        router.push('/Admin/Login');
+      if (!isAuthenticated && router.pathname !== '/x7k9m2/Login') {
+        router.push('/x7k9m2/Login');
       } else {
         setAuthorized(true);
       }

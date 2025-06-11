@@ -24,7 +24,7 @@ const Clients: React.FC = () => {
   // Check authentication and fetch client data on component mount
   useEffect(() => {
     if (!loading && !isAuthenticated) {
-      router.push('/Admin/Login');
+      router.push('/x7k9m2/Login');
     } else {
       fetchClients();
     }
